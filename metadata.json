@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMuscle AI Trainer",
+  "description": "An interactive 3D anatomy explorer powered by Gemini AI. Click on muscle groups on the 3D model to generate personalized, rated workout plans.",
+  "requestFramePermissions": []
+}

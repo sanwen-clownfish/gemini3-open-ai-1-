@@ -1,0 +1,2 @@
+Migrated to SiliconFlow DeepSeek. Set VITE_SILICONFLOW_API_KEY in .env.local.
+Run: npm install && npm run dev
