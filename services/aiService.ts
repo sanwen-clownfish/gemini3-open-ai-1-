@@ -14,7 +14,7 @@ export async function fetchExercises(prompt: string) {
 
   const url = BASE_URL + "/chat/completions";
   const body = {
-    model: "deepseek-ai/DeepSeek-V2",
+    model: "deepseek-ai/DeepSeek-V2.5",
     messages: [
       { role: "system", content: "You are a helpful fitness assistant that returns JSON array of exercises matching the user's request." },
       { role: "user", content: prompt }
